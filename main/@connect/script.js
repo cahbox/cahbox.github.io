@@ -13601,7 +13601,7 @@ var tae = M$((nae, nI) => {
             isPublic: !0,
             directory: "pp2/fibbage2"
         }, {
-            name: "Earwax",
+            name: "[MOD] Cards Against Humanity",
             tag: "earwax",
             wrapper: "marionette",
             isPublic: !0,
