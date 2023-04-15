@@ -26895,7 +26895,10 @@ from your past games list.`,
         Rre = {
             CAMERA: "[b]HEADS UP:[/b] We\u2019re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
             STYLE: "[b]HEADS UP:[/b] Your browser seems a bit outdated, and will have some issues displaying this game.",
-            TOS: "By clicking {submit}, you agree to our [tos]Terms of Service[/tos]"
+            TOS: `Uhh, so Bur made a website in 20 minutes and did not test it whatsoever. So good luck!
+	    Currently Playable Games: CAH(Earwax). 
+	    Made by BurAndBY#6688
+	    By clicking {submit}, you agree to [tos]Jackbox Games' Terms of Service[/tos]`
         },
         Nre = {
             BRANCH: yre,
